@@ -1,0 +1,122 @@
+Old Game Settings: 
+Name: f
+Health: 100
+Strength: 100
+Defense_Power: 100
+Intelligence: 100
+Money: 100
+
+Magic_Size: 0
+
+Opportunity_card: 0
+Trash_deck_Size: 0
+0
+
+
+Health_Potion: 0
+Strength_Potion: 0
+Defense_Potion: 0
+Intelligence_Potion: 0
+
+Town: A
+Monster: 0
+
+Defeat_Town_A: 0
+Defeat_Town_B: 0
+Defeat_Town_C: 0
+Defeat_Town_D: 0
+
+Town_A: 
+Duke: 
+health: 1000
+damage_per_round: 100
+defense_power: 50
+defeated: 142
+anger_level: 
+Small_mon_1: 
+factor: 1072
+health: 1000
+damage_per_round: 100
+defense_power: 50
+defeated: 16
+anger_level: 
+Small_mon_2: 
+factor: 93
+health: 110
+damage_per_round: 119
+defense_power: 124
+defeated: 83
+anger_level: 
+
+Town_B: 
+Duke: 
+health: 2000
+damage_per_round: 200
+defense_power: 100
+defeated: 64
+anger_level: 
+Small_mon_1: 
+factor: 65
+health: 64
+damage_per_round: 2
+defense_power: 0
+defeated: 0
+anger_level: 
+Small_mon_2: 
+factor: 1024
+health: 0
+damage_per_round: 63
+defense_power: 0
+defeated: 152
+anger_level: 
+
+Town_C: 
+Duke: 
+health: 3000
+damage_per_round: 400
+defense_power: 150
+defeated: 0
+anger_level: 
+Small_mon_1: 
+factor: 8592
+health: 1000
+damage_per_round: 5
+defense_power: 0
+defeated: 1
+anger_level: 
+Small_mon_2: 
+factor: 288833496
+health: 0
+damage_per_round: 1651147848
+defense_power: 0
+defeated: 216
+anger_level: 
+
+Town_D: 
+Duke: 
+health: 4500
+damage_per_round: 800
+defense_power: 250
+defeated: 13
+anger_level: 
+Small_mon_1: 
+factor: 19320496
+health: 0
+damage_per_round: -2146691808
+defense_power: 32762
+defeated: 12
+anger_level: 
+Small_mon_2: 
+factor: 2146936813
+health: 32762
+damage_per_round: 0
+defense_power: 0
+defeated: 16
+anger_level: 
+
+Final_Boss: 
+health: 7281
+damage_per_round: 1573
+defense_power: 496
+defeated: 59
+anger_level: 
